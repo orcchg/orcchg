@@ -10,6 +10,8 @@ Author of [Word le Prism - Unlimited!](https://play.google.com/store/apps/detail
 <img width="288" alt="Screenshot 2024-08-29 at 7 42 31 PM" src="https://github.com/user-attachments/assets/99fddbd0-35e6-4e17-a512-4022dad30272">
 <img width="287" alt="Screenshot 2024-08-29 at 7 42 45 PM" src="https://github.com/user-attachments/assets/a2320341-6681-4e43-a1b1-c2440e794483">
 <img width="286" alt="Screenshot 2024-08-29 at 7 43 00 PM" src="https://github.com/user-attachments/assets/d0ab082f-59a2-40f6-9eb1-b53c01c764b8">
+<img width="735" alt="Screenshot 2024-08-29 at 7 47 11 PM" src="https://github.com/user-attachments/assets/dfe8c437-a99e-4fac-b686-0d70d4f03ed3">
+<img width="136" alt="Screenshot 2024-08-29 at 7 47 32 PM" src="https://github.com/user-attachments/assets/039d9801-3945-47dc-a31a-4270da44d9d6">
 
 
 <!--
