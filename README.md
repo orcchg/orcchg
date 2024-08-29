@@ -1,4 +1,4 @@
-## Hi there 👋
+## Max Alov - Multiplatform Dev (Kotlin, Flutter) 👋
 
 Author of [Word le Prism - Unlimited!](https://play.google.com/store/apps/details?id=com.getprism.prism.android.release&hl=en&pli=1) written in Kotlin Multiplatform + Compose. Also available in Huawei [AppGallery](https://appgallery.huawei.com/app/C108349353).
 
