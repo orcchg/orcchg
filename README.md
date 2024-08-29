@@ -1,7 +1,9 @@
-<img width="288" alt="Screenshot 2024-08-29 at 7 42 31 PM" src="https://github.com/user-attachments/assets/d9ab057b-6ce9-418a-a99d-ac447472402d"><img width="287" alt="Screenshot 2024-08-29 at 7 41 27 PM" src="https://github.com/user-attachments/assets/04022e47-6913-437f-b179-5b62b573c924">## Hi there 👋
+## Hi there 👋
 
 Author of [Word le Prism - Unlimited!](https://play.google.com/store/apps/details?id=com.getprism.prism.android.release&hl=en&pli=1) written in Kotlin Multiplatform + Compose. Also available in Huawei [AppGallery](https://appgallery.huawei.com/app/C108349353).
 
+<img width="288" alt="Screenshot 2024-08-29 at 7 42 31 PM" src="https://github.com/user-attachments/assets/d9ab057b-6ce9-418a-a99d-ac447472402d">
+<img width="287" alt="Screenshot 2024-08-29 at 7 41 27 PM" src="https://github.com/user-attachments/assets/04022e47-6913-437f-b179-5b62b573c924">
 <img width="287" alt="Screenshot 2024-08-29 at 7 41 14 PM" src="https://github.com/user-attachments/assets/74ad99f6-58c3-4f79-ae2d-00fb4026bad4">
 <img width="287" alt="Screenshot 2024-08-29 at 7 41 27 PM" src="https://github.com/user-attachments/assets/0b0a5d28-efcb-455e-bc1e-fd828de103eb">
 <img width="286" alt="Screenshot 2024-08-29 at 7 41 43 PM" src="https://github.com/user-attachments/assets/aff6aa58-319d-45a4-9f0d-c4d23f8c1ee3">
