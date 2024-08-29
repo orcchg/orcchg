@@ -12,6 +12,10 @@ Author of [Arkanoid Native](https://play.google.com/store/apps/details?id=com.or
 
 Author of [Scalable Android Architecture 2021](https://alovmax.medium.com/scalable-android-architecture-2021-92208e95c0ad) based on Dagger and modularized project structure. [Sample code](https://github.com/orcchg/SampleAndroidArchAtScale).
 
+Also author of [Surface 3D](https://play.google.com/store/apps/details?id=com.orcchg.surface3d&hl=en) - a native app that is able to upload and display 3D models in 50+ formats.
+
+<a style="margin-bottom: 0;" href='https://play.google.com/store/apps/details?id=com.orcchg.surface3d&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
+
 <!--
 **orcchg/orcchg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
