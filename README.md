@@ -4,9 +4,10 @@ Author of [Word le Prism - Unlimited!](https://getprism.net/) written in Kotlin 
 
 <img width="735" alt="Screenshot 2024-08-29 at 7 47 11 PM" src="https://github.com/user-attachments/assets/dfe8c437-a99e-4fac-b686-0d70d4f03ed3">
 
-<a style="margin-bottom: 0;" href='[https://play.google.com/store/apps/details?id=com.orcchg.dev.maxa.arkanoid_native&hl=en](https://play.google.com/store/apps/details?id=com.getprism.prism.android.release&hl=en&pli=1)'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
+<a style="margin-bottom: 0;" href='https://play.google.com/store/apps/details?id=com.orcchg.dev.maxa.arkanoid_native&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
 
-<a style="margin-bottom: 0;" href='[https://play.google.com/store/apps/details?id=com.orcchg.dev.maxa.arkanoid_native&hl=en](https://play.google.com/store/apps/details?id=com.getprism.prism.android.release&hl=en&pli=1)'><img alt='Get it on App Gallery' src='https://www.bodyfast.app/wp-content/uploads/2022/02/huawei-app-gallery-badge.png' height="80px"/></a>
+<a style="margin-bottom: 0;" href='https://appgallery.huawei.com/app/C108349353'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
+
 
 <!--
 **orcchg/orcchg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
