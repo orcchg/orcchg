@@ -3,7 +3,6 @@
 Author of [Word le Prism - Unlimited!](https://play.google.com/store/apps/details?id=com.getprism.prism.android.release&hl=en&pli=1) written in Kotlin Multiplatform + Compose. Also available in Huawei [AppGallery](https://appgallery.huawei.com/app/C108349353).
 
 <img width="735" alt="Screenshot 2024-08-29 at 7 47 11 PM" src="https://github.com/user-attachments/assets/dfe8c437-a99e-4fac-b686-0d70d4f03ed3">
-<img width="136" alt="Screenshot 2024-08-29 at 7 47 32 PM" src="https://github.com/user-attachments/assets/039d9801-3945-47dc-a31a-4270da44d9d6">
 
 
 <!--
