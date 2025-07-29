@@ -1,4 +1,4 @@
-## Max Alov - Multiplatform Dev (Kotlin, Flutter) 👋
+## Max Alov - Multiplatform Dev (Kotlin, Flutter, React Native) 👋
 
 Author of [Word le Prism - Unlimited!](https://getprism.net/) written in Kotlin Multiplatform + Compose.
 
